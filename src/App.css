@@ -1,0 +1,23 @@
+@import url('https://fonts.googleapis.com/css2?family=Pacifico&display=swap');
+
+
+.App {font-family: 'Pacifico', cursive;
+        background-image: url('https://i.pinimg.com/originals/60/df/77/60df77c5e60f20045cedef89c57010c5.gif');
+        text-align: center;
+        font-size: 100px;
+        height: 900px;
+        width: 1400px;
+        margin: 0 auto;
+}
+nav a {
+        color: #087c9c;
+        display: inline-block;
+        margin: 20 100px;
+        border-radius: 4px;
+        justify-content: space-between
+}
+nav a:hover {
+     text-decoration: none;
+     color: #fc0505;
+}   
+
