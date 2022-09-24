@@ -1,4 +1,6 @@
 ![Peek 24-09-2022 10-59](https://user-images.githubusercontent.com/106212780/192094610-0f8f06ca-3a83-43be-9892-b768940e35ea.gif)
+<image src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" /><image src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /><image src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+
 
 # Getting Started with Create React App
 
